@@ -1,2 +1,2 @@
 # GrabLockScreenPictures
-Grab Win10 Lock Screen Pictures
+PowerShell - Grab Win10 Lock Screen Pictures from Windows 10 Assets directory.
